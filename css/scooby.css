@@ -1,0 +1,25 @@
+header{
+    background-color: rgb(150, 88, 150);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+header h1{
+    color: greenyellow;
+    font-size: 50px;   
+}
+
+header img{
+    border-radius: 100px;
+    border: 10px solid purple
+}
+
+h1, h2{
+    font-family: 'Titan One', cursive;
+}
+
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
